@@ -29,6 +29,8 @@ The shortest route in the example graph is the following:
 
 ![example_graph_solved](example/graph_solved.png)
 
+If you add the costs of the nodes included in the route, you get the solution of the exercise which should be 12.
+
 ### 3. (Optional) Visualize the input and the result using SDL or a similar framework
 
 You should end up with something similar to the __test_case.png__ and the __solution.png__ files that are located in each test case folder.
