@@ -35,9 +35,9 @@ If you add the costs of the nodes included in the route, you get the solution of
 
 You should end up with something similar to the __test_case.png__ and the __solution.png__ files that are located in each test case folder.
 
-![example_graph_visualized](test_cases/test_case_1/test_case.PNG)
+![example_graph_visualized](test_case_resized.png)
 
-![example_solution_visualized](test_cases/test_case_1/solution.PNG)
+![example_solution_visualized](solution_resized.png)
 
 Good luck and have fun!
 
