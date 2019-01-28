@@ -14,7 +14,7 @@ Two nodes are considered to be _connected_ if they are either horizontally or ve
 
 For example, the [example input file](example/input.csv) describes the following graph:
 
-[example_graph](example/graph.png)
+![example_graph](example/graph.png)
 
 ### 2. Calculate the cost of the shortest route from the top left corner to the bottom right corner
 
@@ -27,15 +27,15 @@ There is a text file in each test case folder called __solution.txt__ which cont
 
 The shortest route in the example graph is the following:
 
-[example_graph_solved](example/graph_solved.png)
+![example_graph_solved](example/graph_solved.png)
 
 ### 3. (Optional) Visualize the input and the result using SDL or a similar framework
 
 You should end up with something similar to the __test_case.png__ and the __solution.png__ files that are located in each test case folder.
 
-[example_graph_visualized](test_cases/test_case_1/test_case.png)
+![example_graph_visualized](test_cases/test_case_1/test_case.png)
 
-[example_solution_visualized](test_cases/test_case_1/solution.png)
+![example_solution_visualized](test_cases/test_case_1/solution.png)
 
 Good luck and have fun!
 
