@@ -35,9 +35,42 @@ If you add the costs of the nodes included in the route, you get the solution of
 
 You should end up with something similar to the __test_case.png__ and the __solution.png__ files that are located in each test case folder.
 
-![example_graph_visualized](test_case_resized.png)
+You can use any language and framework that you are familiar with.
 
-![example_solution_visualized](solution_resized.png)
+## The test cases
+
+### Test case 1
+
+[input file](test_cases/test_case_1/input.csv)
+
+Solution: 1261.761
+
+![solution_1](test_cases/test_case_1/solution.PNG)
+
+### Test case 2
+
+[input file](test_cases/test_case_2/input.csv)
+
+Solution: 451
+
+![solution_2](test_cases/test_case_2/solution.PNG)
+
+### Test case 3
+
+[input file](test_cases/test_case_3/input.csv)
+
+Solution: 750
+
+![solution_3](test_cases/test_case_3/solution.PNG)
+
+### Test case 4
+
+[input file](test_cases/test_case_4/input.csv)
+
+Solution: 2745.388
+
+![solution_4](test_cases/test_case_4/solution.PNG)
+
 
 Good luck and have fun!
 
