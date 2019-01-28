@@ -45,7 +45,7 @@ You can use any language and framework that you are familiar with.
 
 Solution: 1261.761
 
-![solution_1](test_cases/test_case_1/solution.PNG)
+![solution1](test_cases/test_case_1/solution.PNG)
 
 ### Test case 2
 
@@ -53,7 +53,7 @@ Solution: 1261.761
 
 Solution: 451
 
-![solution_2](test_cases/test_case_2/solution.PNG)
+![solution2](test_cases/test_case_2/solution.PNG)
 
 ### Test case 3
 
@@ -61,7 +61,7 @@ Solution: 451
 
 Solution: 750
 
-![solution_3](test_cases/test_case_3/solution.PNG)
+![solution3](test_cases/test_case_3/solution.PNG)
 
 ### Test case 4
 
@@ -69,7 +69,7 @@ Solution: 750
 
 Solution: 2745.388
 
-![solution_4](test_cases/test_case_4/solution.PNG)
+![solution4](test_cases/test_case_4/solution.PNG)
 
 
 Good luck and have fun!
