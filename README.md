@@ -33,9 +33,9 @@ The shortest route in the example graph is the following:
 
 You should end up with something similar to the __test_case.png__ and the __solution.png__ files that are located in each test case folder.
 
-![example_graph_visualized](test_cases/test_case_1/test_case.png)
+![example_graph_visualized](test_cases/test_case_1/test_case.PNG)
 
-![example_solution_visualized](test_cases/test_case_1/solution.png)
+![example_solution_visualized](test_cases/test_case_1/solution.PNG)
 
 Good luck and have fun!
 
