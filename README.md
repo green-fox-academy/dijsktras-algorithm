@@ -1,5 +1,7 @@
 # Dijkstra's Navigation Software
 
+![dijkstras-gf](dijkstras-gf.jpg)
+
 Your task in this project is to solve one of the most famous problems of computer science. The problem is finding the shortest possible route in a _weighted graph_ (a mathematical representation of a terrain map).
 
 You are given multiple input files and your tasks are the following:
@@ -38,5 +40,3 @@ You should end up with something similar to the __test_case.png__ and the __solu
 ![example_solution_visualized](test_cases/test_case_1/solution.PNG)
 
 Good luck and have fun!
-
-[dijkstras-gf](dijkstras-gf.jpg)
